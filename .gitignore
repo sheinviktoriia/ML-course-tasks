@@ -2,3 +2,5 @@
 !.gitignore
 !homeworks/
 !homeworks/**
+.DS_Store
+**/.DS_Store
